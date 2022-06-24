@@ -107,7 +107,43 @@ section.hero p {
   margin: 10px 0px 0px;
 }
 
+.swiper {
+  width: 100%;
+  height: 100%;
+  max-width: 1280px;
+}
 
+.swiper-slide {
+  text-align: center;
+
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper {
+  margin: auto;
+
+  margin-bottom: 2.3rem;
+  margin-top: 2.3rem;
+}
 
 /*=============== 
 MAIN
@@ -340,41 +376,4 @@ FORM
 
 #form .button {
   margin: 20px 8px 10px;
-}
-.swiper {
-  width: 100%;
-  height: 100%;
-  max-width: 1280px;
-}
-
-.swiper-slide {
-  text-align: center;
-
-  background: #fff;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
-}
-
-.swiper-slide img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.swiper {
-  margin: auto;
-
-  margin-bottom: 2.3rem;
-  margin-top: 2.3rem;
 }
