@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
 
 * {
   box-sizing: border-box;
@@ -10,7 +10,7 @@
 html,
 body {
   height: 100vh;
-  font-family: "Source Sans Pro";
+  font-family: 'DM Sans', sans-serif;
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
 }
