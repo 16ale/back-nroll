@@ -27,7 +27,9 @@ header .container {
   width: 980px;
   margin: auto;
 }
-
+header .containerBotoes{
+  width: 5rem;
+}
 header img {
   width: 150px;
   margin-left: 20px;
