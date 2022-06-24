@@ -30,7 +30,7 @@ header .container {
 header .containerBotoes{
   display: flex;
   align-items: center;
-  
+  max-width: 12rem;
 }
 header .containerBotoes img{
   width: 5rem;
