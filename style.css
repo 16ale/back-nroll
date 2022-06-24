@@ -28,6 +28,8 @@ header .container {
   margin: auto;
 }
 header .containerBotoes{
+  display: flex;
+  align-items: center;
   
 }
 header .containerBotoes img{
