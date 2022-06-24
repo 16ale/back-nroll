@@ -410,6 +410,7 @@ FORM
   justify-items: center;
   text-align: center;
   margin: auto;
+  max-width: 80rem;
 }
 .gridMarcas {
   display: grid;
