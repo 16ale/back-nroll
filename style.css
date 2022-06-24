@@ -384,3 +384,41 @@ FORM
 #form .button {
   margin: 20px 8px 10px;
 }
+
+.marcasitem1 {
+  grid-area: fig1;
+}
+.marcasitem2 {
+  grid-area: fig2;
+}
+.marcasitem3 {
+  grid-area: fig3;
+}
+.marcasitem4 {
+  grid-area: fig4;
+}
+.marcasitem5 {
+  grid-area: fig5;
+}
+.marcasitem6 {
+  grid-area: fig6;
+}
+.marcas {
+  display: flex;
+  margin-inline: auto;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  margin: auto;
+}
+.gridMarcas {
+  display: grid;
+  grid-template-areas: 'fig1 fig2 fig3 fig4 fig5 fig6';
+  width: 100%;
+  height: 5vh;
+  max-width: 80rem;
+  justify-content: space-between;
+}
+.containerMarcas {
+  background-color: black;
+}
