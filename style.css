@@ -420,7 +420,7 @@ FORM
   width: 100%;
   height: 5vh;
   max-width: 80rem;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .containerMarcas {
   background-color: black;
