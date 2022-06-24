@@ -1,0 +1,218 @@
+:root {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+html {
+  background-color: #d9d9d9;
+}
+html,
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 1.4rem;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #570000;
+  font-family: 'Nunito', sans-serif;
+  height: 13vh;
+}
+
+header nav ul {
+  display: flex;
+}
+header nav ul li {
+  list-style: none;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  padding: 2.4px;
+  transition: all 250ms linear 0s;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+}
+header nav ul li a:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+.container-usuario {
+  width: 100%;
+  height: 12vh;
+}
+
+.imagem-logo {
+  width: 10rem;
+}
+.containerSwiper {
+  display: flex;
+  margin: auto;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  max-width: 1280px;
+}
+
+.swiper-slide {
+  text-align: center;
+
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper {
+  margin: auto;
+
+  margin-bottom: 2.3rem;
+  margin-top: 2.3rem;
+}
+.textoMarcas {
+  color: #fff;
+}
+.marcasitem1 {
+  grid-area: fig1;
+}
+.marcasitem2 {
+  grid-area: fig2;
+}
+.marcasitem3 {
+  grid-area: fig3;
+}
+.marcasitem4 {
+  grid-area: fig4;
+}
+.marcasitem5 {
+  grid-area: fig5;
+}
+.marcasitem6 {
+  grid-area: fig6;
+}
+.marcas {
+  display: flex;
+  margin-inline: auto;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  margin: auto;
+}
+.gridMarcas {
+  display: grid;
+  grid-template-areas: 'fig1 fig2 fig3 fig4 fig5 fig6';
+  width: 100%;
+  height: 5vh;
+  max-width: 80rem;
+  justify-content: space-between;
+}
+.containerMarcas {
+  background-color: black;
+}
+
+.footer {
+  background-color: rgb(27, 26, 26);
+  width: 100vw;
+  height: 10vh;
+}
+@media (max-width: 540px) {
+  nav {
+    display: none;
+  }
+
+  .one,
+  .two,
+  .three {
+    background-color: #fff;
+    height: 5px;
+    width: 100%;
+    margin: 6px auto;
+
+    transition-duration: 0.3s;
+  }
+
+  .menu-toggle {
+    width: 40px;
+    height: 30px;
+    margin-right: 20px;
+  }
+
+  /* fullscreen */
+  .menu-section.on {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background-color: #570000;
+
+    z-index: 10;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .menu-section.on nav {
+    display: block;
+  }
+
+  .menu-section.on .menu-toggle {
+    position: absolute;
+    right: 25px;
+    top: 15px;
+  }
+
+  .menu-section.on .menu-toggle .one {
+    transform: rotate(45deg) translate(7px, 7px);
+  }
+
+  .menu-section.on .menu-toggle .two {
+    opacity: 0;
+  }
+
+  .menu-section.on .menu-toggle .three {
+    transform: rotate(-45deg) translate(8px, -9px);
+  }
+
+  .menu-section.on nav ul {
+    text-align: center;
+    display: block;
+  }
+
+  .menu-section.on nav ul a {
+    transition-duration: 0.5s;
+    font-size: 3rem;
+    line-height: 4rem;
+    display: block;
+  }
+}
+@media (max-width: 540px) {
+}
