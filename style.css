@@ -25,7 +25,8 @@ header .container {
   justify-content: space-between;
 
   width: 980px;
-  margin: auto;
+  margin-left: 0;
+  margin-right: auto;
 }
 header .containerBotoes{
   display: flex;
