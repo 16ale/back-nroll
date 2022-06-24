@@ -28,6 +28,9 @@ header .container {
   margin: auto;
 }
 header .containerBotoes{
+  
+}
+header .containerBotoes img{
   width: 5rem;
 }
 header img {
