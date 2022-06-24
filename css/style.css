@@ -121,7 +121,7 @@ header nav ul li a:hover {
   align-items: center;
   justify-items: center;
   text-align: center;
-  margin: auto;
+  margin: 0;
 }
 .gridMarcas {
   display: grid;
