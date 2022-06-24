@@ -79,7 +79,7 @@ h3 {
   font-size: 16px;
   font-weight: 600;
   color: rgb(255, 255, 255);
-  background-color: rgb(113, 89, 193);
+  background-color: #570000;
   margin: 15px 0px 0px;
   padding: 12px 30px;
   text-decoration: none;
@@ -108,7 +108,7 @@ section.hero .container {
 }
 
 section.hero p {
-  color: rgb(154, 142, 191);
+  color: #570000;
   font-size: 18px;
   line-height: 32px;
   margin: 10px 0px 0px;
