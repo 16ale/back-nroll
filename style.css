@@ -277,7 +277,7 @@ MODAL
   overflow-y: auto;
   visibility: hidden;
   
-  transition: all 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: all 0.6s cubic-bezier(0, 0, 0, 0.1);
   transform: scale(1.2);
 }
 .modal .close-modal {
@@ -298,7 +298,7 @@ MODAL
 }
 .modal .modal-content {
   opacity: 0;
-  transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: opacity 0.6s cubic-bezier(0, 0, 0, 0.1);
   transition-delay: 0.3s;
 }
 .modal.active {
@@ -429,4 +429,10 @@ FORM
 }
 .containerMarcas {
   background-color: black;
+}
+.prazerAtendelo{
+  display:flex;
+  margin:auto;
+  width: 100%;
+  max-width: 80vw;
 }
