@@ -42,9 +42,7 @@ header .containerBotoes{
   width: 5rem;
   height: 5rem;
 }
-header .containerBotoes img{
-  width: 60px;
-}
+
 header img {
   width: 150px;
   margin-left: 0px;
