@@ -36,11 +36,11 @@ header .containerBotoes{
 }
 .imageUsuario{
   width: 2rem;
-  height: 8rem;
+  height: 5rem;
 }
 .imageCarrinho{
-  width: 4rem;
-  height: 8rem;
+  width: 5rem;
+  height: 5rem;
 }
 header .containerBotoes img{
   width: 60px;
