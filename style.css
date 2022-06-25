@@ -35,12 +35,12 @@ header .containerBotoes{
   max-width: 12rem;
 }
 .imageUsuario{
-  width: 20px;
-  height: 80px;
+  width: 2rem;
+  height: 8rem;
 }
 .imageCarrinho{
-  width: 40px;
-  height: 80px;
+  width: 4rem;
+  height: 8rem;
 }
 header .containerBotoes img{
   width: 60px;
