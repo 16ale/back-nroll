@@ -36,9 +36,11 @@ header .containerBotoes{
 }
 .imageUsuario{
   width: 20px;
+  height: 80px;
 }
 .imageCarrinho{
   width: 20px;
+  height: 80px;
 }
 header .containerBotoes img{
   width: 60px;
