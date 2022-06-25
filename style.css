@@ -37,7 +37,11 @@ header .containerBotoes{
 header .containerBotoes img{
   width: 40px;
 }
-
+header img {
+  width: 150px;
+  margin-left: 0px;
+  padding: 15px 0;
+}
 
 header nav ul {
   display: flex;
