@@ -34,6 +34,12 @@ header .containerBotoes{
   align-items: center;
   max-width: 12rem;
 }
+.imageUsuario{
+  width: 20px;
+}
+.imageCarrinho{
+  width: 20px;
+}
 header .containerBotoes img{
   width: 60px;
 }
