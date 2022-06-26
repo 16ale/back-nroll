@@ -1,5 +1,5 @@
 :root{
-  --primary-color: #57000;
+  --primary-color: #570000;
   --secondary-color: #c9c9c9;
   --bg-primary: linear-gradient(45deg, var(--primary-color),var(--secondary-color));
   
