@@ -77,7 +77,7 @@ header nav ul li a {
 
 header nav ul li a:hover {
   background: rgba(206, 206, 206, 0.15);
-  text-decoration: underline;
+  text-decoration: underline black;
 }
 
 h2 {
