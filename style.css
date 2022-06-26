@@ -63,6 +63,11 @@ header img {
   width: 150px;
   margin-left: 0px;
   padding: 15px 0;
+  transition: all 0.5s linear 0s;
+}
+header img:hover {
+  
+  filter: opacity(40%);
 }
 
 header nav ul {
