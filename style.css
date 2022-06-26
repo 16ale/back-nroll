@@ -44,7 +44,7 @@ justify-content: space-around;
 transition: all 0.4s linear 0s;
 }
 header .containerBotoes img:hover{
-  width: 130%;
+  scale: 130%;
 }
 .imageUsuario{
   width: 2.5rem;
