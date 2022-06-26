@@ -39,10 +39,13 @@ header .containerBotoes{
   display: flex;
   align-items: center;
   max-width: 12rem;
+  opacity: 80%;
+justify-content: space-around;
 }
 .imageUsuario{
   width: 2.5rem;
   height: 4.5rem;
+  
 }
 .imageCarrinho{
   width: 5rem;
