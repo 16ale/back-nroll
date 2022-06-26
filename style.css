@@ -140,8 +140,8 @@ h3 {
 
 .swiper-slide img {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 80vh;
   object-fit: cover;
 }
 
@@ -192,14 +192,13 @@ CARDS
   justify-items: center;
   text-align: center;
   margin: auto;
-  max-width: 80rem;
+
 }
 .gridMarcas {
   display: grid;
   grid-template-areas: 'fig1 fig2 fig3 fig4 fig5 fig6';
-  width: 100%;
+  width: 80vw;
   height: 5vh;
-  max-width: 80rem;
   justify-content: space-around;
 }
 .containerMarcas {
