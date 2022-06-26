@@ -20,6 +20,7 @@ body {
 
 header {
   background-color: #570000;
+  position: fixed;
 }
 
 header .container {
