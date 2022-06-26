@@ -2,7 +2,7 @@
   --primary-color: #570000;
   --secondary-color: #c9c9c9;
   --tertiary-color: #000;
-  --bg-primary: radial-gradient( rgb(201,201,201,1) 0%, rgb(0, 0, 0) 2%);}
+  --bg-primary: radial-gradient( rgb(201,201,201,1) 0%, rgb(0, 0, 0) 100%);}
 * {
   box-sizing: border-box;
   margin: 0;
