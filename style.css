@@ -120,7 +120,7 @@ h3 {
   max-height: 540px;
 }
 .swiper-buttons{
-  filter: var(--tertiary-color);
+  filter: brightness(0);
 }
 .swiper-slide {
   text-align: center;
