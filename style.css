@@ -84,7 +84,7 @@ header nav ul li a {
 
 header nav ul li a:hover {
   
- color:var(--secondary-color);
+  filter: opacity(40%);
 }
 
 h2 {
