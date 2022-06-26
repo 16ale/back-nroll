@@ -96,7 +96,7 @@ h3 {
 .swiper {
   width: 100vw;
   height: 80vh;
-  max-width: 1280px;
+  max-width: 1080px;
 }
 
 .swiper-slide {
@@ -190,8 +190,8 @@ CARDS
   margin-top: 7rem;
   width: 100vw;
   height: 100vh;
-  max-width: 1280px;
-  max-height: 720px;
+  max-width: 1080px;
+  max-height: 520px;
 }
 .footer {
   background-color: rgb(27, 26, 26);
