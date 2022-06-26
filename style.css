@@ -63,7 +63,7 @@ header nav ul li a {
   text-decoration: none;
   color: white;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 3rem;
   padding: 24px;
   transition: all 250ms linear 0s;
 }
