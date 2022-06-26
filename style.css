@@ -216,7 +216,7 @@ CARDS
   max-height: 520px;
 }
 .footer {
-  box-shadow: 0 5px 0 black;
+  box-shadow: 0 0 0 0 5px 0 black;
   background-color: rgb(27, 26, 26);
   width: 100vw;
   height: 10rem;
