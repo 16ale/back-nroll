@@ -2,7 +2,7 @@
   --primary-color: #570000;
   --secondary-color: #c9c9c9;
   --tertiary-color: #000;
-  --bg-primary: linear-gradient(-45deg, rgb(0, 0, 0) 0%, rgba(201,201,201,1) 100%);}
+  --bg-primary: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(201,201,201,1) 100%);}
 * {
   box-sizing: border-box;
   margin: 0;
