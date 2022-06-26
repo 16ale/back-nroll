@@ -41,6 +41,9 @@ header .containerBotoes{
   max-width: 12rem;
   opacity: 80%;
 justify-content: space-around;
+
+}
+header .containerBotoes img{
 transition: all 0.7s linear 0s;
 }
 header .containerBotoes img:hover{
@@ -76,7 +79,7 @@ header nav ul li a {
   text-transform: uppercase;
   font-size: 1.2rem;
   padding: 24px;
-  transition: all 1s linear 0s;
+  transition: all 0.7s linear 0s;
 }
 
 header nav ul li a:hover {
