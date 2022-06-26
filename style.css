@@ -41,6 +41,10 @@ header .containerBotoes{
   max-width: 12rem;
   opacity: 80%;
 justify-content: space-around;
+transition: all 0.4s linear 0s;
+}
+header .containerBotoes:hover{
+  filter: grayscale(50%)
 }
 .imageUsuario{
   width: 2.5rem;
