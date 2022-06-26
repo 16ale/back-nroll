@@ -92,7 +92,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-  box-shadow: 0 5px 5px black;
+  box-shadow: 0 5px 0 black;
   filter: opacity(40%);
 }
 
