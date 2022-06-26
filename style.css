@@ -200,7 +200,8 @@ CARDS
   width: 80vw;
   height: 5vh;
   justify-content: space-around;
-  max-width: 80vw;
+  margin:auto;
+  max-width: 1080px;
   max-height: 5vh;
 }
 .containerMarcas {
