@@ -119,9 +119,7 @@ h3 {
   max-width: 1080px;
   max-height: 540px;
 }
-.swiper-buttons .swiper-button-next{
-  filter: brightness(0%);
-}
+
 .swiper-slide {
   text-align: center;
 
