@@ -257,7 +257,7 @@ CARDS
   max-width: 980px;
   margin: auto;
 }
-@media (max-width:860px){
+@media (max-width: 860px){
   * {
     display: none;
   }
