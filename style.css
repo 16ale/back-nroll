@@ -256,8 +256,8 @@ CARDS
   max-width: 980px;
   margin: auto;
 }
-@media only screen and (max-width: 600px){
-  *{
+@media (max-width: 700px) {
+  header nav ul {   
     display: none;
   }
 }
