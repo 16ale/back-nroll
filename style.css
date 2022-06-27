@@ -39,7 +39,7 @@ header .container {
 header .containerBotoes{
   display: flex;
   align-items: center;
-  max-width: 12rem;
+  max-width: 8rem;
   opacity: 80%;
 justify-content: space-around;
 
