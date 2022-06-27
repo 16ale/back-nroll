@@ -256,7 +256,7 @@ CARDS
   max-width: 980px;
   margin: auto;
 }
-@media (max-width: 860px){
+@media only screen and (max-width: 600px){
   *{
     display: none;
   }
