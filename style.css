@@ -247,7 +247,7 @@ CARDS
   justify-content: center;
 }
 .textoEndereco{
-  max-width: 200px;
+  width: 200px;
 }
 .containerFooter{
   display: flex;
