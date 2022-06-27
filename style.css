@@ -234,3 +234,10 @@ CARDS
   width: 100vw;
   height: 10rem;
 }
+@media (max-width: 1080px) {
+
+  .swiper {
+   
+    max-width:720px;
+  }
+}
