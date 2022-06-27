@@ -237,6 +237,7 @@ CARDS
 @media (max-width: 1080px) {
 
   .swiper {
+    width: 0;
     width: 100%;
     max-width: 592px;
   }
