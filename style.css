@@ -235,6 +235,9 @@ CARDS
   height: 10rem;
  
 }
+.redesSociais{
+  max-width: 90px;
+}
 .containerFooter{
   display: flex;
   align-items: center;
