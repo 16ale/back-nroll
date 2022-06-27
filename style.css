@@ -257,3 +257,8 @@ CARDS
   max-width: 980px;
   margin: auto;
 }
+@media (max-width:860px){
+  header nav ul {
+    display: none;
+  }
+}
