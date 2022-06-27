@@ -233,10 +233,13 @@ CARDS
   background-color: rgb(27, 26, 26);
   width: 100vw;
   height: 10rem;
+ 
+}
+.containerFooter{
   display: flex;
   align-items: center;
   justify-content: space-between;
 
-  width: 980px;
+  max-width: 980px;
   margin: auto;
 }
