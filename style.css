@@ -242,7 +242,7 @@ CARDS
 .containerFooter{
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 
   max-width: 980px;
   margin: auto;
