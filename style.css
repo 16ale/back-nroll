@@ -256,8 +256,8 @@ CARDS
   max-width: 980px;
   margin: auto;
 }
-@media (min-width: 860px){
-  .linksNav{
+@media (max-width: 860px){
+  nav ul li{
     display: none;
   }
 }
