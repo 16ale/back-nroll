@@ -253,12 +253,11 @@ CARDS
   display: flex;
   align-items: center;
   justify-content: space-around;
-
   max-width: 980px;
   margin: auto;
 }
 @media (max-width: 860px){
-  * {
+  nav{
     display: none;
   }
 }
