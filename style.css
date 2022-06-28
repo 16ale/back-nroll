@@ -211,7 +211,7 @@ CARDS
   display: grid;
   grid-template-areas: 'fig1 fig2 fig3 fig4 fig5 fig6';
   width: 80%;
-  height: 5vh;
+  height: 100%;
   justify-content: space-around;
   margin:auto;
   max-width: 1080px;
