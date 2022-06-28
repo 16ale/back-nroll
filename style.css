@@ -253,7 +253,8 @@ CARDS
 }
 .endereco{
   display:flex;
-  align-content: center;
+  align-content: center;[
+  align-items: center;
 }
 .containerEndereco{
   display: flex;
