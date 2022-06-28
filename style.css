@@ -244,6 +244,10 @@ CARDS
   align-items: center;
   align-content: center;
 }
+.iconeLocal{
+  width: 30px;
+  height: 30px;
+}
 .containerEndereco{
   display: flex;
   justify-content: center;
