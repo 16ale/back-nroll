@@ -254,6 +254,7 @@ CARDS
 .containerEndereco{
   display: flex;
   justify-content: center;
+  align-content: center;
 }
 .textoEndereco{
   width: 200px;
