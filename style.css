@@ -20,9 +20,9 @@ body {
   font-family: 'Nunito', sans-serif;
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
-  width: 100vw;
+
   height: 100vh;
-  max-width: 1280px;
+  
 }
 
 header {
@@ -43,7 +43,7 @@ header .containerBotoes{
   align-items: center;
   max-width: 12rem;
   opacity: 80%;
-justify-content: space-around;
+  justify-content: space-around;
 
 }
 header .containerBotoes img{
