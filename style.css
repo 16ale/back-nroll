@@ -271,15 +271,18 @@ CARDS
   max-width: 980px;
   margin: auto;
 }
-@media (max-width: 768px) {
-  html {   
-    font-size: 50%;
-  }
 
-}
 @media (max-width: 768px) {
   header nav ul {   
     display: none;
+  }
+
+}
+@media (max-width: 1000px) {
+  .gridMarcas {
+  display: grid;
+  grid-template-areas: 'fig1 fig2 fig' 
+                        'fig4 fig5 fig6';
   }
 
 }
