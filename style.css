@@ -17,12 +17,12 @@ background: var(--bg-primary);
 }
 html,
 body {
-  width: 100%;
   font-family: 'Nunito', sans-serif;
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
   width: 100vw;
   height: 100vh;
+  max-width: 1280px;
 }
 
 header {
