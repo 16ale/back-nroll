@@ -29,13 +29,14 @@ header {
   max-height: 13vh;
   width: 100%;
   margin: auto;
+  max-width: 980px;
 }
 
 header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-
+  width: 100%;
   max-width: 980px;
   margin: auto;
 }
