@@ -283,6 +283,7 @@ CARDS
   display: grid;
   grid-template-areas: 'fig1 fig2 fig' 
                         'fig4 fig5 fig6';
+  justify-content: space-evenly;                      
   }
 
 }
