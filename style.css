@@ -28,7 +28,7 @@ header {
   background-color: var(--primary-color);
   height: 13vh;
   margin: auto;
-  width: 980px;
+  width: 100vw;
 }
 
 header .container {
