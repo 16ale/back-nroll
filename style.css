@@ -251,10 +251,14 @@ CARDS
   width: 50px;
   height: 50px;
 }
+.endereco{
+  display:flex;
+  align-content: center;
+}
 .containerEndereco{
   display: flex;
   justify-content: center;
-  align-content: center;
+  
 }
 .textoEndereco{
   width: 200px;
