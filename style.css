@@ -10,11 +10,7 @@
   outline: 0;
   font-size: 62,5%;
 }
-@media (max-width: 700px) {
-  header nav ul {   
-    display: none;
-  }
-}
+
 html{
 
 background: var(--bg-primary);
@@ -260,4 +256,9 @@ CARDS
   justify-content: space-around;
   max-width: 980px;
   margin: auto;
+}
+@media (max-width: 700px) {
+  header nav ul {   
+    display: none;
+  }
 }
