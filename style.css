@@ -28,6 +28,7 @@ header {
   background-color: var(--primary-color);
   max-height: 13vh;
   width: 100%;
+  margin: auto;
 }
 
 header .container {
@@ -119,7 +120,7 @@ h3 {
   width: 100%;
   height: 80vh;
   max-width: 1080px;
-  
+  margin: auto;
 }
 .swiper-pagination-bullet{
   background-color: rgb(75, 75, 75);
@@ -157,6 +158,7 @@ h3 {
   width: 100%;
   height: 80vh;
   object-fit: cover;
+  
 }
 
 .swiper {
@@ -170,15 +172,14 @@ h3 {
 MAIN
 ==================*/
 main {
-  margin-bottom: 80px;
+ 
+  margin: auto;
 }
 /*=============== 
 CARDS
 ==================*/
 
-.content {
-  margin: 20px;
-}
+
 
 
 .marcasitem1 {
