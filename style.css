@@ -26,16 +26,13 @@ body {
 header {
   box-shadow: 10px 5px 5px black;
   background-color: var(--primary-color);
-  height: 13vh;
-  margin: auto;
-  width: 100vw;
 }
 
 header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
+  width: 90%;
   max-width: 980px;
   margin: auto;
 }
