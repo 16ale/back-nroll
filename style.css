@@ -236,17 +236,20 @@ CARDS
   height: 10rem;
  
 }
+.redesSociais{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .iconeSocial{
   width: 30px;
   height: 30px;
   opacity: 40%;
-  display: flex;
-  align-items: center;
-  align-content: center;
+
 }
 .iconeLocal{
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
 }
 .containerEndereco{
   display: flex;
