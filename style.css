@@ -275,12 +275,7 @@ CARDS
   margin: auto;
 }
 
-@media (max-width: 768px) {
-  header nav ul {   
-    display: none;
-  }
 
-}
 @media (max-width: 1000px) {
   .gridMarcas {
   display: grid;
