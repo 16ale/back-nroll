@@ -239,7 +239,7 @@ CARDS
   background-color: rgb(27, 26, 26);
   width: 100%;
   height: 10rem;
-  flex-wrap: wrap;
+  display: flex;
  
 }
 .redesSociais{
@@ -272,7 +272,8 @@ CARDS
   width: 200px;
 }
 .containerFooter{
-  display: run-in;
+  flex-wrap: wrap;
+
   
   justify-content: space-around;
   max-width: 980px;
