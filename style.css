@@ -241,11 +241,13 @@ CARDS
   height: auto;
   display: flex;
   color: white; 
+  justify-content: center;
 }
 .containerFooter{
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
+
   justify-content: space-evenly;
   max-width: 980px;
   margin: auto;
