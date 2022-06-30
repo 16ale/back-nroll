@@ -246,7 +246,6 @@ CARDS
   display: flex;
   flex-wrap: nowrap;
   
-  
   justify-content: space-evenly;
   max-width: 980px;
   margin: auto;
