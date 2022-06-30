@@ -271,7 +271,7 @@ CARDS
   width: 200px;
 }
 .containerFooter{
-  display: flex;
+  display: run-in;
   
   justify-content: space-around;
   max-width: 980px;
