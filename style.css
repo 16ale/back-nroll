@@ -313,7 +313,7 @@ CARDS
     .menu-toggle {
         width: 40px;
         height: 30px;
-        margin-right: 20px;
+        margin-right: 30px;
     }
 
     /* fullscreen */
@@ -340,7 +340,7 @@ CARDS
 
     .menu-section.on .menu-toggle {
         position: absolute;
-        right: 20px;
+        right: 25px;
         top: 15px;
     }
 
