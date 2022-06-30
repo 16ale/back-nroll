@@ -331,7 +331,7 @@ CARDS
         z-index: 10;
 
         display: flex;
-        justify-content: space-around;
+        justify-content: center;
         align-items: center;
     }
 
@@ -360,6 +360,7 @@ CARDS
     .menu-section.on nav ul {
         text-align: center;
         display: block;
+        justify-content: space-around;
     }
 
     .menu-section.on nav ul a{
