@@ -340,8 +340,8 @@ CARDS
 
     .menu-section.on .menu-toggle {
         position: absolute;
-        right: 30px;
-        top: 15px;
+        right: 32px;
+        top: 25px;
     }
 
     .menu-section.on .menu-toggle .one {
