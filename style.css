@@ -240,7 +240,15 @@ CARDS
   width: 100%;
   height: auto;
   display: flex;
+  flex-wrap: wrap;
+}
+.containerFooter{
  
+
+  
+  justify-content: space-evenly;
+  max-width: 980px;
+  margin: auto;
 }
 .redesSociais{
   display: flex;
@@ -271,14 +279,7 @@ CARDS
 .textoEndereco{
   width: 200px;
 }
-.containerFooter{
-  flex-wrap: wrap;
 
-  
-  justify-content: space-evenly;
-  max-width: 980px;
-  margin: auto;
-}
 
 @media (max-width: 768px) {
   header nav ul {   
