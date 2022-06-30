@@ -360,7 +360,7 @@ CARDS
     .menu-section.on nav ul {
         text-align: center;
         display: block;
-        justify-content: space-around;
+        gap: 2rem;
     }
 
     .menu-section.on nav ul a{
