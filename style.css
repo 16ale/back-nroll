@@ -244,7 +244,7 @@ CARDS
 }
 .containerFooter{
  
-  flex-direction: row;
+  flex-wrap: nowrap;
   
   justify-content: space-evenly;
   max-width: 980px;
