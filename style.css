@@ -360,7 +360,7 @@ CARDS
     .menu-section.on nav ul {
         text-align: center;
         display: block;
-        gap: 2rem;
+        
     }
 
     .menu-section.on nav ul a{
@@ -368,6 +368,7 @@ CARDS
         font-size: 2rem;
         line-height: 4rem;
         display: block;
+        gap: 2rem;
         
     }
     .containerFooter{
