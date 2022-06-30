@@ -366,9 +366,9 @@ CARDS
     .menu-section.on nav ul a{
         transition-duration: 0.5s;
         font-size: 2rem;
-        line-height: 4rem;
+        line-height: 5rem;
         display: block;
-        gap: 10rem;
+        
         
     }
     .containerFooter{
