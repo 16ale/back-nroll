@@ -28,6 +28,7 @@ body {
 header {
   box-shadow: 10px 5px 5px black;
   background-color: var(--primary-color);
+  width: 1280px;
 }
 
 header .container {
