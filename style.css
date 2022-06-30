@@ -354,5 +354,9 @@ CARDS
         display: block;
         
     }
-
+    .containerFooter{
+      
+      flex-wrap: wrap;
+         
   }
+}
