@@ -295,7 +295,7 @@ CARDS
 @media (max-width: 768px) {
   header nav ul {   
     display: none;
-    font-size: 50%;
+    
   }
   header .container .containerBotoes{
     display: none;
@@ -364,7 +364,7 @@ CARDS
 
     .menu-section.on nav ul a{
         transition-duration: 0.5s;
-        font-size: 3rem;
+        font-size: 2rem;
         line-height: 4rem;
         display: block;
         
