@@ -275,7 +275,7 @@ CARDS
   flex-wrap: wrap;
 
   
-  justify-content: space-around;
+  justify-content: space-evenly;
   max-width: 980px;
   margin: auto;
 }
