@@ -242,6 +242,7 @@ CARDS
   display: flex;
   color: white; 
   justify-content: center;
+  align-items: center;
 }
 .containerFooter{
   display: flex;
