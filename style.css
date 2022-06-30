@@ -240,11 +240,11 @@ CARDS
   width: 100%;
   height: auto;
   display: flex;
-  flex-wrap: wrap;
+ 
 }
 .containerFooter{
  
-
+  flex-direction: row;
   
   justify-content: space-evenly;
   max-width: 980px;
