@@ -210,7 +210,7 @@ CARDS
 
 }
 .gridMarcas {
-  width: 100%;
+  width: 80%;
   max-width: 928px;
   margin: auto;
   display: grid;
@@ -228,7 +228,8 @@ CARDS
 .anteFooter img{
   display:flex;
   margin:auto;
-  margin-top: 7rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   width: 100%;
   height: 100%;
   max-width: 1080px;
