@@ -240,7 +240,7 @@ CARDS
   width: 100%;
   height: auto;
   display: flex;
-  
+  color: white; 
 }
 .containerFooter{
   display: flex;
@@ -254,6 +254,7 @@ CARDS
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 .iconeSocial{
   width: 30px;
@@ -270,11 +271,18 @@ CARDS
   flex-direction: column;
   align-content: center;
   align-items: center;
+  margin: auto;
 }
 .containerEndereco{
   display: flex;
   justify-content: center;
   
+}
+.containerCartao{
+  margin: auto;
+}
+.desenvolvedores{
+  margin: auto;
 }
 .textoEndereco{
   width: 200px;
