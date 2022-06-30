@@ -336,7 +336,8 @@ CARDS
     }
 
     .menu-section.on nav {
-        display: block;
+        display: flex;
+        justify-content: space-around;
     }
 
     .menu-section.on .menu-toggle {
