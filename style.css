@@ -339,8 +339,8 @@ CARDS
     }
 
     .menu-section.on .menu-toggle {
-        position: absolute;
-        right: 5px;
+        
+        right: 2px;
         top: 15px;
     }
 
