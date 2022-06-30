@@ -296,6 +296,9 @@ CARDS
   header nav ul {   
     display: none;
   }
+  .containerBotoes{
+    display: none;
+  } 
 .one,
     .two,
     .three {
