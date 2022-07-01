@@ -249,6 +249,7 @@ CARDS
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
+  padding: auto;
   padding: 2rem;
   justify-content: space-evenly;
   max-width: 980px;
