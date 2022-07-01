@@ -134,7 +134,9 @@ header nav ul li a:hover {
 .containerMarcas {
   background-color: black;
 }
-
+.iconeLocal{
+  width: 40px;
+}
 .footer {
   background-color: rgb(27, 26, 26);
   width: 100vw;
