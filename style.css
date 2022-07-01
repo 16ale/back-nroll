@@ -245,6 +245,9 @@ CARDS
   justify-content: center;
   align-items: center;
 }
+.footer p{
+  opacity: 0.7;
+}
 .containerFooter{
   display: flex;
   flex-wrap: nowrap;
@@ -284,7 +287,7 @@ CARDS
 }
 .containerCartao{
   margin: auto;
-  padding: auto;
+ 
 }
 .desenvolvedores{
   margin: auto;
