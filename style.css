@@ -47,6 +47,9 @@ header .containerBotoes{
   justify-content: space-around;
 
 }
+header .containerBotoesNone{
+  display: none;
+}
 header .containerBotoes img{
 transition: all 0.5s linear 0s;
 }
@@ -306,6 +309,14 @@ CARDS
     display: none;
     justify-content: center;
   } 
+  header .containerBotoesNone{
+    display: flex;
+    align-items: center;
+    max-width: 12rem;
+    opacity: 80%;
+    justify-content: space-around;
+  
+  }
 .one,
     .two,
     .three {
