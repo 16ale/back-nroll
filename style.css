@@ -42,7 +42,7 @@ header .container {
 header .containerBotoes{
   display: flex;
   align-items: center;
-  max-width: 15rem;
+  max-width: 12rem;
   opacity: 80%;
   justify-content: space-around;
 
@@ -62,8 +62,8 @@ header .containerBotoes img:hover{
   
 }
 .imageCarrinho{
-  width: 100px;
-  height: 80px;
+  width: 80px;
+  height: 60px;
 }
 
 header img {
