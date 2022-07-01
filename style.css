@@ -360,7 +360,7 @@ CARDS
       max-width: 12rem;
       opacity: 80%;
       justify-content: space-evenly;
-    
+      margin: auto;
     }
     .menu-section.on .menu-toggle .one {
         transform: rotate(45deg) translate(7px, 7px);
