@@ -208,9 +208,7 @@ header nav ul li a:hover {
     text-align: center;
     display: block;
   }
-  .menu-section.on .containerBotoes{
-    display: block;
-  }
+  
   .menu-section.on nav ul a {
     transition-duration: 0.5s;
     font-size: 3rem;
