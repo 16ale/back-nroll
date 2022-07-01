@@ -359,7 +359,7 @@ CARDS
       align-items: center;
       max-width: 12rem;
       opacity: 80%;
-      justify-content: space-around;
+      justify-content: space-evenly;
     
     }
     .menu-section.on .menu-toggle .one {
