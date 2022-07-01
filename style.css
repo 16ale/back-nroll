@@ -354,7 +354,7 @@ CARDS
         right: 35.5px;
         top: 31.5px;
     }
-    .menu-section.on .menu-toggle .containerBotoesNone{
+    .menu-section.on .containerBotoesNone{
       display: flex;
       align-items: center;
       max-width: 12rem;
