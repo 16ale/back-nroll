@@ -309,14 +309,7 @@ CARDS
     display: none;
     justify-content: center;
   } 
-  header .containerBotoesNone{
-    display: flex;
-    align-items: center;
-    max-width: 12rem;
-    opacity: 80%;
-    justify-content: space-around;
-  
-  }
+ 
 .one,
     .two,
     .three {
@@ -361,7 +354,14 @@ CARDS
         right: 35.5px;
         top: 31.5px;
     }
-
+    .menu-section.on .menu-toggle .containerBotoesNone{
+      display: flex;
+      align-items: center;
+      max-width: 12rem;
+      opacity: 80%;
+      justify-content: space-around;
+    
+    }
     .menu-section.on .menu-toggle .one {
         transform: rotate(45deg) translate(7px, 7px);
     }
